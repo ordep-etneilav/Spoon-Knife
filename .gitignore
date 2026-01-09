@@ -1,0 +1,6 @@
+#Let's ignore a few files
+#Extension files
+*.css
+#File names
+README.md
+
